@@ -12,8 +12,9 @@ def bagi(a, b):
         return "Error: Tidak bisa membagi dengan angka nol!"
     return a / b
 
-def pangkat(a, b):
-    return a ** b
+def pangkat (a, b):
+    return a**b
+
 
 def main():
     print("=== KALKULATOR SEDERHANA ===")
